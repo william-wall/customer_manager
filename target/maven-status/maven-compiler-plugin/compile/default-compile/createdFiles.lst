@@ -1,0 +1,7 @@
+ie\williamwall\config\JpaConfig.class
+ie\williamwall\config\WebAppInitializer.class
+ie\williamwall\service\CustomerService.class
+ie\williamwall\controller\CustomerController.class
+ie\williamwall\model\Customer.class
+ie\williamwall\config\WebMvcConfig.class
+ie\williamwall\repository\CustomerRepository.class
